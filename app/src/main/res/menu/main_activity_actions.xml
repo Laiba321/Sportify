@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_chrono"
+        android:icon="@drawable/ic_timer_black_24dp"
+        android:title="@string/ChronometerLabel"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_profil"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Profil"
+        android:visible="false"
+        app:showAsAction="always">
+    </item>
+
+
+
+</menu>
