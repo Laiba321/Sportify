@@ -52,6 +52,8 @@
             android:layout_centerVertical="true"
             android:layout_gravity="center_vertical"
             android:layout_toEndOf="@+id/header_icon"
+            android:textSize="20sp"
+            android:fontFamily="cursive"
             android:textAppearance="?android:attr/textAppearanceLarge" />
 
     </RelativeLayout>
@@ -88,6 +90,8 @@
             android:gravity="center_vertical"
             android:paddingLeft="16dp"
             android:paddingRight="16dp"
+            android:textSize="20sp"
+            android:fontFamily="cursive"
             android:textAppearance="?android:attr/textAppearanceLarge"
            android:textColor="#fff"/>
 
